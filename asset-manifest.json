@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ClientStrive/static/css/main.d05ef64e.css",
-    "main.js": "/ClientStrive/static/js/main.ccaa275e.js",
-    "static/js/453.4c7fa4e0.chunk.js": "/ClientStrive/static/js/453.4c7fa4e0.chunk.js",
-    "index.html": "/ClientStrive/index.html",
-    "main.d05ef64e.css.map": "/ClientStrive/static/css/main.d05ef64e.css.map",
-    "main.ccaa275e.js.map": "/ClientStrive/static/js/main.ccaa275e.js.map",
-    "453.4c7fa4e0.chunk.js.map": "/ClientStrive/static/js/453.4c7fa4e0.chunk.js.map"
+    "main.css": "/ClientStrive_1/static/css/main.d05ef64e.css",
+    "main.js": "/ClientStrive_1/static/js/main.1d0d4b1f.js",
+    "static/js/453.4c7fa4e0.chunk.js": "/ClientStrive_1/static/js/453.4c7fa4e0.chunk.js",
+    "index.html": "/ClientStrive_1/index.html",
+    "main.d05ef64e.css.map": "/ClientStrive_1/static/css/main.d05ef64e.css.map",
+    "main.1d0d4b1f.js.map": "/ClientStrive_1/static/js/main.1d0d4b1f.js.map",
+    "453.4c7fa4e0.chunk.js.map": "/ClientStrive_1/static/js/453.4c7fa4e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d05ef64e.css",
-    "static/js/main.ccaa275e.js"
+    "static/js/main.1d0d4b1f.js"
   ]
 }
